@@ -22,6 +22,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total",
                 "Male",
                 "Female",
                 ""
@@ -36,6 +37,7 @@
               "enum": [
                 "<15Y",
                 "15-64",
+                "Total",
                 "65+",
                 ""
               ]
@@ -47,6 +49,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "All Area",
                 "Urban",
                 ""
               ]

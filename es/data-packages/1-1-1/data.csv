@@ -1,74 +1,74 @@
 Year,Sex,Age,Location,Value
-2010,,<15Y,Urban,0.39083
-2010,,15-64,,0.36188
-2010,,,Urban,0.34551
-2010,Male,,,0.25555
-2010,Female,,,0.43499
-2010,,65+,,0.23031
-2010,,,,0.2
-2011,,,,0.2
-2011,Male,,,0.25417
-2011,,<15Y,,0.0
-2011,Female,,,0.26335
-2011,,65+,,0.48479
-2011,,15-64,,0.25868
-2011,,,Urban,0.25877
-2012,,<15Y,,0.0
-2012,Male,,,0.22172
-2012,Female,,,0.15317
-2012,,65+,,0.33393
-2012,,15-64,,0.19058
-2012,,,,0.1
-2012,,,Urban,0.1874
-2013,,,,0.0
-2013,,15-64,,0.08646
-2013,,<15Y,,0.0
-2013,,65+,,0.0
-2013,,,Urban,0.05931
-2013,Male,,,0.07135
-2013,Female,,,0.04725
-2014,Female,,,0.02357
-2014,,,,0.0
-2014,,65+,,0.06491
-2014,,15-64,,0.04328
-2014,,<15Y,,0.0
-2014,,,Urban,0.04119
-2014,Male,,,0.0587
-2015,,,,0.1
-2015,,15-64,,0.14074
-2015,,<15Y,,0.06967
-2015,,,Urban,0.10846
-2015,Male,,,0.11653
-2015,Female,,,0.1003
-2015,,65+,,0.02036
-2016,,<15Y,,0.09952
-2016,,,Urban,0.14013
-2016,Male,,,0.21448
-2016,Female,,,0.06425
-2016,,65+,,0.09219
-2016,,15-64,,0.16152
-2016,,,,0.1
-2017,Male,,,0.16634
-2017,,,Urban,0.15989
-2017,,65+,,0.02953
-2017,,15-64,,0.22781
-2017,,<15Y,,0.0
-2017,,,,0.2
-2017,Female,,,0.15324
-2018,,,Urban,0.18374
-2018,,<15Y,,0.0
-2018,,65+,,0.15954
-2018,,15-64,,0.22741
-2018,Male,,,0.25454
-2018,Female,,,0.10949
-2018,,,,0.1
-2019,,,,0.3
-2019,Female,,,0.2019
-2019,,65+,,0.34974
-2019,,,Urban,0.34974
-2019,Male,,,0.48748
-2020,Male,,,0.62427
-2020,Female,,,0.34826
-2020,,,Urban,0.4916
-2020,,,,0.3
-2020,,65+,,0.4916
+2010,Total,<15Y,All Area,0.39083
+2010,Total,15-64,All Area,0.36188
+2010,Total,Total,Urban,0.34551
+2010,Male,Total,All Area,0.25555
+2010,Female,Total,All Area,0.43499
+2010,Total,65+,All Area,0.23031
+2010,Total,Total,All Area,0.2
+2011,Total,Total,All Area,0.2
+2011,Male,Total,All Area,0.25417
+2011,Total,<15Y,All Area,0.0
+2011,Female,Total,All Area,0.26335
+2011,Total,65+,All Area,0.48479
+2011,Total,15-64,All Area,0.25868
+2011,Total,Total,Urban,0.25877
+2012,Total,<15Y,All Area,0.0
+2012,Male,Total,All Area,0.22172
+2012,Female,Total,All Area,0.15317
+2012,Total,65+,All Area,0.33393
+2012,Total,15-64,All Area,0.19058
+2012,Total,Total,All Area,0.1
+2012,Total,Total,Urban,0.1874
+2013,Total,Total,All Area,0.0
+2013,Total,15-64,All Area,0.08646
+2013,Total,<15Y,All Area,0.0
+2013,Total,65+,All Area,0.0
+2013,Total,Total,Urban,0.05931
+2013,Male,Total,All Area,0.07135
+2013,Female,Total,All Area,0.04725
+2014,Female,Total,All Area,0.02357
+2014,Total,Total,All Area,0.0
+2014,Total,65+,All Area,0.06491
+2014,Total,15-64,All Area,0.04328
+2014,Total,<15Y,All Area,0.0
+2014,Total,Total,Urban,0.04119
+2014,Male,Total,All Area,0.0587
+2015,Total,Total,All Area,0.1
+2015,Total,15-64,All Area,0.14074
+2015,Total,<15Y,All Area,0.06967
+2015,Total,Total,Urban,0.10846
+2015,Male,Total,All Area,0.11653
+2015,Female,Total,All Area,0.1003
+2015,Total,65+,All Area,0.02036
+2016,Total,<15Y,All Area,0.09952
+2016,Total,Total,Urban,0.14013
+2016,Male,Total,All Area,0.21448
+2016,Female,Total,All Area,0.06425
+2016,Total,65+,All Area,0.09219
+2016,Total,15-64,All Area,0.16152
+2016,Total,Total,All Area,0.1
+2017,Male,Total,All Area,0.16634
+2017,Total,Total,Urban,0.15989
+2017,Total,65+,All Area,0.02953
+2017,Total,15-64,All Area,0.22781
+2017,Total,<15Y,All Area,0.0
+2017,Total,Total,All Area,0.2
+2017,Female,Total,All Area,0.15324
+2018,Total,Total,Urban,0.18374
+2018,Total,<15Y,All Area,0.0
+2018,Total,65+,All Area,0.15954
+2018,Total,15-64,All Area,0.22741
+2018,Male,Total,All Area,0.25454
+2018,Female,Total,All Area,0.10949
+2018,Total,Total,All Area,0.1
+2019,Total,Total,All Area,0.3
+2019,Female,Total,All Area,0.2019
+2019,Total,65+,All Area,0.34974
+2019,Total,Total,Urban,0.34974
+2019,Male,Total,All Area,0.48748
+2020,Male,Total,All Area,0.62427
+2020,Female,Total,All Area,0.34826
+2020,Total,Total,Urban,0.4916
+2020,Total,Total,All Area,0.3
+2020,Total,65+,All Area,0.4916
