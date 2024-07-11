@@ -15,19 +15,41 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "<15Y",
+                "15-64",
+                "65+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Location",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
