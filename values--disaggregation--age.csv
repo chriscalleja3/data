@@ -1,5 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 15-64,2,2
 <15Y,2,2
-65+,2,2
+18-64,1,1
+<18Y,1,1
+65+,3,3
 Total,4,1
