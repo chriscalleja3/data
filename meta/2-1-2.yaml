@@ -1,0 +1,7 @@
+indicator_name: Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)
+indicator_number: 2.1.2
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: UN
+source_url_1: "https://test.org"
+reporting_status: complete
