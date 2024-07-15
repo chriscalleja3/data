@@ -1,0 +1,7 @@
+indicator_name: Proportion of population living in households with access to basic service
+indicator_number: 1.4.1
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: NSO
+source_url_1: "https://test.org"
+reporting_status: complete

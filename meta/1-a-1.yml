@@ -1,0 +1,7 @@
+indicator_name: Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income
+indicator_number: 1.a.1
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: NSO
+source_url_1: "https://test.org"
+reporting_status: complete
