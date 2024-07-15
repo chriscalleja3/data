@@ -1,0 +1,7 @@
+indicator_name: Proportion of total government spending on essential services (education, health and social protection)
+indicator_number: 1.a.2
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: NSO
+source_url_1: "https://test.org"
+reporting_status: complete
