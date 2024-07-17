@@ -9,9 +9,9 @@ data_notice_text: ''
 data_show_map: false
 data_start_values:
   - field: Sex
-    value: Total
+    value: All Sexes
   - field: Age
-    value: Total
+    value: All Ages
   - field: Location
     value: All Area
 embedded_feature_footer: ''
