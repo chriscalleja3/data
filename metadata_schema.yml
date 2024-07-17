@@ -767,11 +767,5 @@ prose:
             element: textarea
             label: "Other information"
             scope: source_9
-      ######### Other fields #########
-      - name: un_designated_tier
-        field:
-            element: text
-            label: UN designated tier
-            translation_key: metadata_fields.un_designated_tier
-            scope: global
+    
   ignore: ['/scripts', '/.github']
