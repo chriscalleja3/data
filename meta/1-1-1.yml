@@ -1,5 +1,5 @@
 SDG_INDICATOR: global_indicators.1-1-1-title
-SDG_TARGETS: global_targets.1-1-title
+SDG_TARGET: global_targets.1-1-title
 un_designated_tier: Tier I
 SDG_CUSTODIAN_AGENCIES: World Bank
 SDG_RELATED_INDICATORS: 1.2.1, 10.1.1, 10.2.1
@@ -11,7 +11,9 @@ indicator_available: Proportion of population below the international poverty li
 national_indicator_description: Proportion of population below the international poverty line is defined as the percentage of the population living on less than $2.15 a day at 2017 international prices.
 national_geographical_coverage: Malta
 STAT_CONC_DEF: The ‘international poverty line’ is currently set at $2.15 a day at 2017 international prices.
-UNIT_MEASURE: Percentage (%)
+computation_units: Percentage (%)
+available_disaggregations: Sex, Age, Location
+REC_USE_LIM: Data follows the UN specification for this indicator. This indicator has been identified in collaboration with topic experts.
 reporting_status: complete
 data_non_statistical: false
 graph_type: line
