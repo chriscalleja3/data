@@ -67,7 +67,7 @@ prose:
             element: textarea
             label: "Definition and Concepts"
             scope: national    
-      - name: "UNIT_MEASURE"
+      - name: "computation_units"
         field:
             element: text
             label: "Unit of measure"
