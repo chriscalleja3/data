@@ -4,40 +4,30 @@ prose:
   metadata:
     meta:
       ######### Global Metadata #########
-      - name: "indicator_name"
+      - name: "SDG_INDICATOR"
         field:
             element: text
             label: "Indicator name"
             scope: global
-      - name: "indicator"
-        field:
-            element: hidden
-            label: "Indicator number"
-            scope: data
-      - name: "indicator_sort_order"
-        field:
-            element: hidden
-            label: "Indicator display order (within Goal page)"
-            scope: data
-      - name: "target_name"
+      - name: "SDG_TARGET"
         field:
             element: text
             label: "Target name"
             scope: global
-      - name: "target_id"
-        field:
-            element: hidden
-            label: "Target number"
-            scope: data
       - name: "un_designated_tier"
         field: 
             element: text
             label: "UN designated tier"
             scope: global
-      - name: "un_custodian_agency"
+      - name: "SDG_CUSTODIAN_AGENCIES"
         field: 
             element: text
             label: "UN custodian agency"
+            scope: global
+      - name: "SDG_RELATED_INDICATORS"
+        field: 
+            element: text
+            label: "Related Indicators"
             scope: global
       - name: "goal_meta_link"
         field:
@@ -45,6 +35,12 @@ prose:
             label: "Link to UN metadata"
             scope: global
       - name: "goal_meta_link_text"
+        field:
+            element: text
+            label: "Link to UN metadata text"
+            value: "UN metadata"
+            scope: global
+      - name: "META_LAST_UPDATE"
         field:
             element: text
             label: "Link to UN metadata text"
@@ -66,30 +62,30 @@ prose:
             element: text
             label: "Geographical coverage"
             scope: national
-      - name: "computation_units"
-        field:
-            element: text
-            label: "Unit of measurement"
-            scope: national
-      - name: "computation_definitions"
+      - name: "STAT_CONC_DEF"
         field:
             element: textarea
-            label: "Definitions"
+            label: "Definition and Concepts"
+            scope: national    
+      - name: "UNIT_MEASURE"
+        field:
+            element: text
+            label: "Unit of measure"
             scope: national
       - name: "available_disaggregations"
         field:
             element: textarea
             label: "Available disaggregations"
             scope: national
-      - name: "computation_calculations"
+      - name: "DATA_COMP"
         field:
             element: text
             label: "Calculations"
             scope: national
-      - name: "other_info"
+      - name: "REC_USE_LIM"
         field:
             element: text
-            label: "Other information"
+            label: "Comments and Limitations"
             scope: national
       - name: "national_data_updated_date"
         field:
