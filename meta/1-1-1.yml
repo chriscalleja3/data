@@ -1,11 +1,11 @@
 SDG_INDICATOR: global_indicators.1-1-1-title
 SDG_TARGET: global_targets.1-1-title
 un_designated_tier: Tier I
-SDG_CUSTODIAN_AGENCIES: World Bank
-SDG_RELATED_INDICATORS: 1.2.1, 10.1.1, 10.2.1
-goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-04-01.pdf
+SDG_CUSTODIAN_AGENCIES: International Labour Organization (ILO)
+SDG_RELATED_INDICATORS: 1.3.1, 8.2.1, 8.3.1, 8.5.1, 8.5.2, 10.4.1
+goal_meta_link: https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01b.pdf
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (PDF 4.0 MB)
-META_LAST_UPDATE: 31/03/2023
+META_LAST_UPDATE: 28/03/2024
 
 indicator_available: Proportion of population below the international poverty line
 national_indicator_description: Proportion of population below the international poverty line is defined as the percentage of the population living on less than $2.15 a day at 2017 international prices.
