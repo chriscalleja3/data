@@ -34,5 +34,6 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+proxy: proxy
 standalone: false
 tags: []
