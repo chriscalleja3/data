@@ -25,12 +25,15 @@ graph_titles:
   - series: Number of local breeds (not extinct) (number)
     title: Number of local breeds (not extinct) (number)
 graph_types:
-  - series: Number of local breeds with unknown risk status (number)
-    graph_type: line
-  - series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)
-    graph_type: bar
-  - series: Number of local breeds (not extinct) (number)
-    graph_type: line
+  - type: line
+    unit: Total
+    series: Number of local breeds with unknown risk status (number)
+  - type: bar
+    unit: Percent
+    series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)
+  - type: line
+    unit: Total
+    series: Number of local breeds (not extinct) (number)
 indicator_name: global_indicators.2-5-2-title
 indicator_number: '2.5.2'
 national_geographical_coverage: ''
