@@ -15,7 +15,9 @@ embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
-graph_limits: []
+graph_limits:
+  - series: Number of local breeds for which sufficient genetic resources are stored for reconstitution
+    y_min: -1
 graph_stacked_disaggregation: ''
 graph_titles:
   - series: Number of local breeds kept in the country
