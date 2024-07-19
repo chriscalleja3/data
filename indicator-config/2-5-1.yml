@@ -17,6 +17,7 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits:
   - minimum: -1
+    maximum: 1
     series: Number of local breeds for which sufficient genetic resources are stored for reconstitution
 graph_stacked_disaggregation: ''
 graph_titles:
