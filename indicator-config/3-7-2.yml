@@ -33,6 +33,8 @@ reporting_status: complete
 sort: ''
 sources:
   - organisation: Directorate for Health Information and Research (DHIR) Malta
+    logo: "https://github.com/chriscalleja3/site/blob/develop/assets/img/DHIR.png"
   - organisation: National Statistics Office (NSO) Malta
+    logo: "https://github.com/chriscalleja3/site/blob/develop/assets/img/NSO.png"
 standalone: false
 tags: []
