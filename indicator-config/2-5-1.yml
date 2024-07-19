@@ -16,7 +16,7 @@ embedded_feature_url: ''
 expected_disaggregations: []
 graph_annotations: []
 graph_limits:
-  - minimum: -1
+  - minimum: 0
     maximum: 1
     series: Number of local breeds for which sufficient genetic resources are stored for reconstitution
 graph_stacked_disaggregation: ''
@@ -34,22 +34,8 @@ graph_types:
     series: Number of local breeds kept in the country
   - type: line
     series: Number of transboundary breeds (including extinct ones)
-  - type: bar
+  - type: line
     series: Number of local breeds for which sufficient genetic resources are stored for reconstitution
-    options:
-        layout:
-          padding:
-            top: 10    # Padding at the top of the chart
-            bottom: 10 # Padding at the bottom of the chart
-            left: 20   # Padding on the left side of the chart
-            right: 20  # Padding on the right side of the chart
-        scales:
-          x:
-            ticks:
-              padding: 10  # Padding between x-axis ticks and the chart area
-          y:
-            ticks:
-              padding: 10  # Padding between y-axis ticks and the chart area
   - type: line
     series: Plant genetic resources accessions stored ex situ (number)
 indicator_name: global_indicators.2-5-1-title
