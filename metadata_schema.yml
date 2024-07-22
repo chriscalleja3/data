@@ -51,7 +51,7 @@ prose:
         field:
             element: text
             label: Related indicators (global)
-            translation_key: ''
+            translation_key: metadata_fields.SDG_RELATED_INDICATORS__GLOBAL
             scope: global
 #      - name: CONTACT__GLOBAL
 #        field:
@@ -304,7 +304,7 @@ prose:
         field:
             element: text
             label: Related indicators
-            translation_key: ''
+            translation_key: metadata_fields.SDG_RELATED_INDICATORS
             scope: national
       - name: CONTACT
         field:
