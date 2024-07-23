@@ -34,7 +34,7 @@ graph_types:
     series: Number of local breeds kept in the country
   - type: line
     series: Number of transboundary breeds (including extinct ones)
-  - type: line
+  - type: binary
     series: Number of local breeds for which sufficient genetic resources are stored for reconstitution
   - type: line
     series: Plant genetic resources accessions stored ex situ (number)
