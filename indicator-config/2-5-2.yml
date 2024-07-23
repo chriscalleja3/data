@@ -1,5 +1,11 @@
 ﻿composite_breakdown_label: ''
-computation_units: ''
+computation_units_list: 
+  - series: Number of local breeds with unknown risk status (number)
+    computation_units: Number
+  - series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)
+    computation_units: Percentage
+  - series: Number of local breeds (not extinct) (number)
+    computation_units: Number
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
