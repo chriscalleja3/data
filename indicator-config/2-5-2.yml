@@ -1,5 +1,7 @@
 ﻿composite_breakdown_label: ''
-computation_units: Number, Percentage (%), Number
+computation_units: 
+  - Number
+  - Percentage (%)
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -26,13 +28,13 @@ graph_titles:
     title: Number of local breeds (not extinct) (number)
 graph_types:
   - type: line
-    unit: Total
+    unit: Number
     series: Number of local breeds with unknown risk status (number)
   - type: bar
-    unit: Percent
+    unit: Percentage (%)
     series: Proportion of local breeds classified as being at risk of extinction as a share of local breeds with known level of extinction risk (%)
   - type: line
-    unit: Total
+    unit: Number
     series: Number of local breeds (not extinct) (number)
 indicator_name: global_indicators.2-5-2-title
 indicator_number: '2.5.2'
