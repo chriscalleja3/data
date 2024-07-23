@@ -29,14 +29,16 @@
             "title": "Series"
           },
           {
-            "name": "Unnamed: 2",
-            "type": "number",
+            "name": "Units",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Number",
+                "Percentage (%)",
                 ""
               ]
             },
-            "title": "Unnamed: 2"
+            "title": "Units"
           },
           {
             "name": "Value",
