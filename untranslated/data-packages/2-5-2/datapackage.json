@@ -27,12 +27,10 @@
             }
           },
           {
-            "name": "Unit",
-            "type": "string",
+            "name": "Unnamed: 2",
+            "type": "number",
             "constraints": {
               "enum": [
-                "Number",
-                "Percentage (%)",
                 ""
               ]
             }
