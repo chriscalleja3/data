@@ -3,7 +3,7 @@ SDG_GOAL: >-
 SDG_TARGET: >-
   Target 3.7: By 2030, ensure universal access to sexual and reproductive health-care services, including for 
   family planning, information and education, and the integration of reproductive health into national 
-strategies and programmes
+  strategies and programmes
 SDG_INDICATOR: >-
   Indicator 3.7.2: Adolescent birth rate (aged 10–14 years; aged 15–19 years) per 1,000 women in that age 
   group
@@ -25,8 +25,8 @@ SDG_RELATED_INDICATORS: >-
   registration and census data. Strengthened civil registration and vital statistics systems reaching universal
   coverage of birth registration and conducting at least one census every 10 years are directly relevant for 
   measuring progress on target 3.7.
-SDG_CUSTODIAN_AGENCIES: >-
-  Population Division, Department of Economic and Social Affairs (DESA)\n 
+SDG_CUSTODIAN_AGENCIES: |
+  Population Division, Department of Economic and Social Affairs (DESA)
   United Nations Population Fund (UNFPA)
 CONTACT_ORGANISATION: >-
 
