@@ -57,7 +57,7 @@ prose:
             element: text
             label: Definition and concepts (global)
             translation_key: metadata_fields.STAT_CONC_DEF
-           scope: global
+            scope: global
 #      - name: CONTACT__GLOBAL
 #        field:
 #            element: text
