@@ -106,12 +106,12 @@ prose:
 #           label: Definition, concepts, and classifications (global)
 #           translation_key: metadata_fields.IND_DEF_CON_CLASS
 #           scope: global
-#     - name: STAT_CONC_DEF__GLOBAL
-#       field:
-#           element: text
-#           label: Definition and concepts (global)
-#           translation_key: metadata_fields.STAT_CONC_DEF
-#           scope: global
+     - name: STAT_CONC_DEF__GLOBAL
+       field:
+           element: text
+           label: Definition and concepts (global)
+           translation_key: metadata_fields.STAT_CONC_DEF
+           scope: global
 #     - name: UNIT_MEASURE__GLOBAL
 #       field:
 #           element: text
