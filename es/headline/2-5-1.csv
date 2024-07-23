@@ -27,7 +27,7 @@ Year,Value,Series
 2021,5,Number of transboundary breeds (including extinct ones)
 2022,5,Number of transboundary breeds (including extinct ones)
 2023,7,Number of transboundary breeds (including extinct ones)
-2023,0,Number of local breeds for which sufficient genetic resources are stored for reconstitution
+2023,-1,Number of local breeds for which sufficient genetic resources are stored for reconstitution
 2010,9,Plant genetic resources accessions stored ex situ (number)
 2012,11,Plant genetic resources accessions stored ex situ (number)
 2014,66,Plant genetic resources accessions stored ex situ (number)
