@@ -47,8 +47,8 @@ precision: []
 reporting_status: complete
 sort: ''
 source_active_1: true
-source_organisation_1: >- 
+source_organisation_1: 
     Food and Agriculture Organization (FAO) of the United Nations - 
-    \nWorld Information and Early Warning Systems (WIEWS) on Plant Genetic Resources for Food and Agriculture 
+    World Information and Early Warning Systems (WIEWS) on Plant Genetic Resources for Food and Agriculture 
 standalone: false
 tags: []
