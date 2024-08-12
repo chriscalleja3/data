@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in curricula",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in national education policies",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in student assessment",
+                "Extent to which global citizenship education and education for sustainable development are mainstreamed in teacher education",
+                ""
+              ]
+            },
+            "title": "Series"
           },
           {
             "name": "Value",
