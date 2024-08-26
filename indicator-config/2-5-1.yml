@@ -38,11 +38,12 @@ graph_types:
 indicator_name: global_indicators.2-5-1-title
 indicator_number: '2.5.1'
 indicator_tabs:
-  override: true
-  tab_1: table
-  tab_2: embed
-  tab_3: hide
-  tab_4: hide
+  - series: Number of local breeds for which sufficient genetic resources are stored for reconstitution
+    override: true
+    tab_1: table
+    tab_2: embed
+    tab_3: hide
+    tab_4: hide
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
