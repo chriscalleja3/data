@@ -43,6 +43,11 @@ permalink: ''
 precision: []
 reporting_status: complete
 sort: ''
+series:
+  - name: Number of local breeds for which sufficient genetic resources are stored for reconstitution
+    chart: false
+    table: true
+    embed: true
 source_active_1: true
 source_organisation_1: 
     Food and Agriculture Organization (FAO) of the United Nations - 
