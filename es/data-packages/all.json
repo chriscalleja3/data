@@ -3,6 +3,75 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "12-c-1/data.csv",
+      "name": "12-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Electricity Imported",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "897066.0",
+                "601034.22",
+                "188383.86",
+                "44853.3",
+                "17941.32",
+                "631293.0",
+                "410340.45",
+                "126258.6",
+                "37877.58",
+                "25251.72",
+                "31564.65",
+                "656756.0",
+                "472864.32",
+                "91945.84",
+                "39405.36",
+                "19702.68",
+                "32837.8",
+                "419810.0",
+                "251886.0",
+                "71367.7",
+                "46179.1",
+                "41981.0",
+                "8396.2",
+                "547250.0",
+                "372348.9",
+                "70814.15",
+                "35133.45",
+                "59157.725",
+                "9795.775",
+                "646139.0",
+                "474201.4121",
+                "78958.1858",
+                "16928.8418",
+                "58410.9656",
+                "17639.5947",
+                ""
+              ]
+            },
+            "title": "Electricity Imported"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
+    },
+    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -3843,30 +3912,6 @@
         ]
       },
       "title": "Ratio of land consumption rate to population growth rate"
-    },
-    {
-      "path": "12-c-1/data.csv",
-      "name": "12-c-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Amount of fossil-fuel subsidies per unit of GDP (production and consumption)"
     },
     {
       "path": "3-b-3/data.csv",
