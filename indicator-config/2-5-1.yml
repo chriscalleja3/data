@@ -37,7 +37,6 @@ graph_types:
     series: Plant genetic resources accessions stored ex situ (number)
 indicator_name: global_indicators.2-5-1-title
 indicator_number: '2.5.1'
-indicator_tabs:
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
