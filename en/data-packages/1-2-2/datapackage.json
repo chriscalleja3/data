@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "UN",
-                "Proxy",
+                "Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",
+                "People living in households with very low work intensity",
                 ""
               ]
             },

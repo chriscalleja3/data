@@ -1,93 +1,93 @@
 Year,Series,Sex,Age,Value
-2010,UN,All Sexes,All Ages,21.2
-2011,UN,All Sexes,All Ages,22.1
-2012,UN,All Sexes,All Ages,23.1
-2013,UN,All Sexes,All Ages,24.6
-2014,UN,All Sexes,All Ages,23.9
-2015,UN,All Sexes,All Ages,23.0
-2016,UN,All Sexes,All Ages,20.2
-2017,UN,All Sexes,All Ages,19.4
-2018,UN,All Sexes,All Ages,19.2
-2019,UN,All Sexes,All Ages,20.7
-2020,UN,All Sexes,All Ages,19.9
-2021,UN,All Sexes,All Ages,20.3
-2022,UN,All Sexes,All Ages,20.1
-2010,UN,Males,All Ages,20.1
-2011,UN,Males,All Ages,20.9
-2012,UN,Males,All Ages,21.9
-2013,UN,Males,All Ages,23.8
-2014,UN,Males,All Ages,23.1
-2015,UN,Males,All Ages,22.2
-2016,UN,Males,All Ages,16.9
-2017,UN,Males,All Ages,18.5
-2018,UN,Males,All Ages,17.3
-2019,UN,Males,All Ages,19.0
-2020,UN,Males,All Ages,18.3
-2021,UN,Males,All Ages,18.9
-2022,UN,Males,All Ages,18.9
-2010,UN,Females,All Ages,22.4
-2011,UN,Females,All Ages,23.2
-2012,UN,Females,All Ages,24.3
-2013,UN,Females,All Ages,25.5
-2014,UN,Females,All Ages,24.7
-2015,UN,Females,All Ages,23.8
-2016,UN,Females,All Ages,20.7
-2017,UN,Females,All Ages,20.3
-2018,UN,Females,All Ages,21.1
-2019,UN,Females,All Ages,22.6
-2020,UN,Females,All Ages,21.8
-2021,UN,Females,All Ages,21.9
-2022,UN,Females,All Ages,21.3
-2010,UN,All Sexes,<18Y,26.7
-2011,UN,All Sexes,<18Y,27.8
-2012,UN,All Sexes,<18Y,31.0
-2013,UN,All Sexes,<18Y,33.0
-2014,UN,All Sexes,<18Y,31.8
-2015,UN,All Sexes,<18Y,28.4
-2016,UN,All Sexes,<18Y,23.7
-2017,UN,All Sexes,<18Y,23.6
-2018,UN,All Sexes,<18Y,23.3
-2019,UN,All Sexes,<18Y,23.7
-2020,UN,All Sexes,<18Y,22.6
-2021,UN,All Sexes,<18Y,23.2
-2022,UN,All Sexes,<18Y,23.1
-2010,UN,All Sexes,18-64,19.6
-2011,UN,All Sexes,18-64,20.7
-2012,UN,All Sexes,18-64,21.1
-2013,UN,All Sexes,18-64,23.2
-2014,UN,All Sexes,18-64,21.8
-2015,UN,All Sexes,18-64,21.1
-2016,UN,All Sexes,18-64,17.4
-2017,UN,All Sexes,18-64,16.3
-2018,UN,All Sexes,18-64,15.7
-2019,UN,All Sexes,18-64,17.2
-2020,UN,All Sexes,18-64,17.0
-2021,UN,All Sexes,18-64,17.0
-2022,UN,All Sexes,18-64,15.5
-2010,UN,All Sexes,65+,21.7
-2011,UN,All Sexes,65+,21.0
-2012,UN,All Sexes,65+,22.3
-2013,UN,All Sexes,65+,20.9
-2014,UN,All Sexes,65+,23.5
-2015,UN,All Sexes,65+,24.3
-2016,UN,All Sexes,65+,26.7
-2017,UN,All Sexes,65+,26.5
-2018,UN,All Sexes,65+,27.8
-2019,UN,All Sexes,65+,30.7
-2020,UN,All Sexes,65+,28.5
-2021,UN,All Sexes,65+,29.9
-2022,UN,All Sexes,65+,33.3
-2010,Proxy,All Sexes,All Ages,9.2
-2011,Proxy,All Sexes,All Ages,8.9
-2012,Proxy,All Sexes,All Ages,9.0
-2013,Proxy,All Sexes,All Ages,9.1
-2014,Proxy,All Sexes,All Ages,9.9
-2015,Proxy,All Sexes,All Ages,9.2
-2016,Proxy,All Sexes,All Ages,6.8
-2017,Proxy,All Sexes,All Ages,6.6
-2018,Proxy,All Sexes,All Ages,5.3
-2019,Proxy,All Sexes,All Ages,4.9
-2020,Proxy,All Sexes,All Ages,5.4
-2021,Proxy,All Sexes,All Ages,5.3
-2022,Proxy,All Sexes,All Ages,3.8
-2023,Proxy,All Sexes,All Ages,3.6
+2010,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,21.2
+2011,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,22.1
+2012,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,23.1
+2013,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,24.6
+2014,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,23.9
+2015,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,23.0
+2016,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,20.2
+2017,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,19.4
+2018,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,19.2
+2019,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,20.7
+2020,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,19.9
+2021,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,20.3
+2022,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,All Ages,20.1
+2010,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,20.1
+2011,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,20.9
+2012,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,21.9
+2013,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,23.8
+2014,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,23.1
+2015,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,22.2
+2016,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,16.9
+2017,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,18.5
+2018,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,17.3
+2019,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,19.0
+2020,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,18.3
+2021,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,18.9
+2022,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Males,All Ages,18.9
+2010,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,22.4
+2011,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,23.2
+2012,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,24.3
+2013,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,25.5
+2014,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,24.7
+2015,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,23.8
+2016,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,20.7
+2017,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,20.3
+2018,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,21.1
+2019,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,22.6
+2020,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,21.8
+2021,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,21.9
+2022,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",Females,All Ages,21.3
+2010,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,26.7
+2011,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,27.8
+2012,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,31.0
+2013,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,33.0
+2014,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,31.8
+2015,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,28.4
+2016,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,23.7
+2017,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,23.6
+2018,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,23.3
+2019,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,23.7
+2020,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,22.6
+2021,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,23.2
+2022,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,<18Y,23.1
+2010,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,19.6
+2011,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,20.7
+2012,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,21.1
+2013,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,23.2
+2014,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,21.8
+2015,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,21.1
+2016,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,17.4
+2017,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,16.3
+2018,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,15.7
+2019,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,17.2
+2020,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,17.0
+2021,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,17.0
+2022,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,18-64,15.5
+2010,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,21.7
+2011,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,21.0
+2012,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,22.3
+2013,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,20.9
+2014,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,23.5
+2015,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,24.3
+2016,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,26.7
+2017,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,26.5
+2018,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,27.8
+2019,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,30.7
+2020,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,28.5
+2021,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,29.9
+2022,"Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",All Sexes,65+,33.3
+2010,People living in households with very low work intensity,All Sexes,All Ages,9.2
+2011,People living in households with very low work intensity,All Sexes,All Ages,8.9
+2012,People living in households with very low work intensity,All Sexes,All Ages,9.0
+2013,People living in households with very low work intensity,All Sexes,All Ages,9.1
+2014,People living in households with very low work intensity,All Sexes,All Ages,9.9
+2015,People living in households with very low work intensity,All Sexes,All Ages,9.2
+2016,People living in households with very low work intensity,All Sexes,All Ages,6.8
+2017,People living in households with very low work intensity,All Sexes,All Ages,6.6
+2018,People living in households with very low work intensity,All Sexes,All Ages,5.3
+2019,People living in households with very low work intensity,All Sexes,All Ages,4.9
+2020,People living in households with very low work intensity,All Sexes,All Ages,5.4
+2021,People living in households with very low work intensity,All Sexes,All Ages,5.3
+2022,People living in households with very low work intensity,All Sexes,All Ages,3.8
+2023,People living in households with very low work intensity,All Sexes,All Ages,3.6
