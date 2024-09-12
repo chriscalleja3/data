@@ -33,8 +33,9 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
+proxy: both
 proxy_series:
-  - Proxy
+  - People living in households with very low work intensity
 reporting_status: complete
 sort: ''
 standalone: false
