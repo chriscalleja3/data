@@ -16,10 +16,23 @@
             "title": "Year"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN",
+                "Proxy",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
+                "All Sexes",
                 "Males",
                 "Females",
                 ""
@@ -32,6 +45,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "All Ages",
                 "<18Y",
                 "18-64",
                 "65+",
