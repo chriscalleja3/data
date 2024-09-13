@@ -33,7 +33,9 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-euSDG: euSDG
+euSDG: both
+euSDG_series:
+  - Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions
 proxy: both
 proxy_series:
   - People living in households with very low work intensity
