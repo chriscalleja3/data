@@ -33,8 +33,9 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-euSDG: both
-euSDG_series:
+euSDG: euSDG
+proxy: both
+proxy_series:
   - People living in households with very low work intensity
 reporting_status: complete
 sort: ''
